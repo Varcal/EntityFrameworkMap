@@ -27,3 +27,42 @@
 *.exe
 *.out
 *.app
+EfTeste/bin/Debug/EfTeste.application
+EfTeste/bin/Debug/EfTeste.exe.config
+EfTeste/bin/Debug/EfTeste.exe.manifest
+EfTeste/bin/Debug/EfTeste.pdb
+EfTeste/bin/Debug/EfTeste.vshost.application
+EfTeste/bin/Debug/EfTeste.vshost.exe.config
+EfTeste/bin/Debug/EfTeste.vshost.exe.manifest
+EfTeste/bin/Debug/EntityFramework.SqlServer.xml
+EfTeste/bin/Debug/EntityFramework.xml
+EfTeste/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+EfTeste/obj/Debug/EfTeste.application
+EfTeste/obj/Debug/EfTeste.csproj.FileListAbsolute.txt
+EfTeste/obj/Debug/EfTeste.csproj.GenerateResource.Cache
+EfTeste/obj/Debug/EfTeste.csprojResolveAssemblyReference.cache
+EfTeste/obj/Debug/EfTeste.exe.manifest
+EfTeste/obj/Debug/EfTeste.Migrations.CreateDb.resources
+EfTeste/obj/Debug/EfTeste.pdb
+EfTeste/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+EfTeste/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+EfTeste/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EfTeste.application
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EfTeste.exe.config.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EfTeste.exe.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EfTeste.exe.manifest
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EntityFramework.dll.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_0/EntityFramework.SqlServer.dll.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EfTeste.application
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EfTeste.exe.config.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EfTeste.exe.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EfTeste.exe.manifest
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EntityFramework.dll.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_1/EntityFramework.SqlServer.dll.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EfTeste.application
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EfTeste.exe.config.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EfTeste.exe.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EfTeste.exe.manifest
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EntityFramework.dll.deploy
+EfTeste/publish/Application Files/EfTeste_1_0_0_2/EntityFramework.SqlServer.dll.deploy
+EfTeste/publish/EfTeste.application
