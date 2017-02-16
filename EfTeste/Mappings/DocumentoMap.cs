@@ -16,12 +16,19 @@ namespace EfTeste.Mappings
 
             HasKey(p => p.Id);
 
+            //HasRequired(p => p.DocumentoTipo)
+            //    .WithMany()
+            //    .HasForeignKey(fk => fk.DocumentoTipoId);
+
             HasRequired(p => p.DocumentoTipo)
                 .WithMany()
-                .HasForeignKey(fk => fk.DocumentoTipoId);
+                .Map(m =>
+                {
+                    m.MapKey("DocumentoTipoId");
+                });
 
             Property(p => p.Numero).IsRequired();
-            Property(p => p.DocumentoTipoId).IsRequired();
+            //Property(p => p.DocumentoTipoId).IsRequired();
         }
     }
 }
